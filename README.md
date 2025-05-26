@@ -3,7 +3,7 @@ Sure! Here's a more **human-friendly version** of the README that feels natural,
 
 ---
 
-# 🛒 Electronics Store Support Chatbot
+#  Electronics Store Support Chatbot
 
 Welcome! This project is a smart chatbot designed to help users with questions about electronics—like smartphones, laptops, order tracking, return policies, payment methods, and warranties.
 
@@ -11,7 +11,7 @@ It uses **AI-powered search and text generation** to provide helpful and convers
 
 ---
 
-## 🤖 What This Chatbot Can Do
+##  What This Chatbot Can Do
 
 * Answer questions in natural language
 * Understand the intent behind your query using semantic search
@@ -21,7 +21,7 @@ It uses **AI-powered search and text generation** to provide helpful and convers
 
 ---
 
-## 🧰 Built With
+##  Built With
 
 * **Gradio** – To create the interactive chat interface
 * **FAISS** – To quickly find the most relevant FAQ entries
@@ -31,7 +31,7 @@ It uses **AI-powered search and text generation** to provide helpful and convers
 
 ---
 
-## 🏁 How It Works (In Plain English)
+##  How It Works (In Plain English)
 
 1. We start with a list of frequently asked questions (FAQs).
 2. When a user types a question, the chatbot finds the most similar questions from the list using a model called `MiniLM`.
